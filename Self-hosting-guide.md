@@ -44,7 +44,7 @@ To get the connection URL there are two ways
 #1 [Mongo Atlas](http://mongodb.com/cloud/atlas) and create an account \
 After you set up your account create a new Cluster \
 Then copy the connection url to your cluster
-([Mongo-Atlas-Guide](https://github.com/Synthesized-Infinity/Void-Guides/blob/main/Mongo-Atlas-guide.md))
+([Mongo-Atlas-Guide](https://github.com/BEYOND-THE-WORLD/Lumine-guides/blob/main/Mongo-Atlas-guide.md))
 
 #2 If you don't want to use Mongo Atlas you can install MongoDB in your system and use the URI provided in `.env.example`
 Follow the instructions [here](https://docs.mongodb.com/manual/installation/) to install MongoDB in your system
@@ -68,4 +68,4 @@ To authenticate scan the QR which shows up in the terminal or the link which is 
 Now you're on your own. Good Luck!
 
 ## Don't want to do the hassle of setting up on your own PC?
-[Set it up on Heroku](https://github.com/ShinNouzen/Chitoge-Guides/blob/main/Heroku-Deploy-Guide.md)
+[Set it up on Heroku](https://github.com/BEYOND-THE-WORLD/Lumine-guides/blob/main/Heroku-Deploy-Guide.md)
